@@ -15,3 +15,4 @@ Day 2 of 100 for Coding Challenge 😎
 ## Possible Improvements
 - Adding more styling 
 - Adding buttons for functionality for deleting
+- Fix spaghetti code in JS file
